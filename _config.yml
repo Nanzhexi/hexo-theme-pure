@@ -31,7 +31,7 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: Hexo # 页面title
+  title: Nanzhexi's blog # 页面title
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
   copyright: false # 底部版权信息
@@ -200,19 +200,19 @@ fb_app_id:
 profile:
   enabled: true # Whether to show profile bar
   articleSelfBlock: false # 关闭文章下方的自我介绍
-  avatar: images/avatar.jpg
+  avatar: images/Nan.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
-  author_title: Web Developer & Designer
-  author_description: 个人简介。
-  location: Shenzhen, China
-  follow: https://github.com/cofess
+  author: Nanzhexi
+  author_title: 一个大二的菜鸟
+  author_description: 
+  location: Zhuhai, China
+  follow: https://github.com/Nanzhexi
   # Social Links
   social:
     links:
-      github: https://github.com/cofess
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      github: https://github.com/Nanzhexi
+      weibo: 
+      twitter: 
       # facebook: /
       # dribbble: /
       behance: https://www.behance.net/cofess
@@ -244,7 +244,7 @@ profile:
   # My Personal Works
   works:
     name:
-      link: http://www.example.com
+      link: http://blog.nanzhexi.xyz
       date: 2016
   # My Personal Projects
   projects:
