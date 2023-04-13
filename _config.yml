@@ -101,7 +101,7 @@ donate:
 # Share
 # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
 share:
-  enable: flase  # 是否启用分享
+  enable: false  # 是否启用分享
   sites: weibo,qq,wechat,facebook,twitter  # PC端显示的分享图标
   mobile_sites: weibo,qq,qzone  # 移动端显示的分享图标
 
@@ -177,9 +177,9 @@ pv:
     app_id: # leancloud <AppID>
     app_key: # leancloud <AppKey>
         
-# wordcount
+#wordcount
 postCount:
-  enable: false
+  enable: true
   wordcount: true  # 文章字数统计
   min2read: true  # 阅读时长预计 
 
@@ -217,7 +217,7 @@ profile:
       dribbble: 
       behance: 
       rss: atom.xml
-    link_tooltip: true # enable the social link tooltip, options: true, false
+    link_tooltip: false # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
     Git: ★★★☆☆
