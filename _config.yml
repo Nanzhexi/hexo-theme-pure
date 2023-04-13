@@ -2,12 +2,12 @@
 menu:
   Home: .
   Archives: archives  # 归档
-  Categories: categories # 分类
+  Categories: categories # 分类 计网
   #Tags: tags  # 标签
   #Repository: repository  # github repositories
   #Books: books  # 豆瓣书单
   #Links: links  # 友链
-  #About: about  # 关于
+  About: about  # 关于
 
 # Enable/Disable menu icons
 menu_icons:
@@ -38,7 +38,7 @@ site:
 
 # config
 config:
-  skin: # 主题颜色 theme-black theme-blue theme-green theme-purple
+  skin: theme-black # 主题颜色 theme-black theme-blue theme-green theme-purple
   layout: main-center # 布局方式 main-left main-center main-right
   toc: true # 是否开启文章章节目录导航
   menu_highlight: false # 是否开启当前菜单高亮显示
@@ -223,33 +223,24 @@ profile:
     link_tooltip: false # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
-    Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    Git: ★☆☆☆☆
+    linux: ★☆☆☆☆
+    C/C++: ★★☆☆☆
+    Java: ★★☆☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    Github: https://github.com/Nanzhexi
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
+    - 后端
     - Web前端
     - 网页重构
   # My Personal Works
-  works:
-    name:
-      link: http://blog.nanzhexi.xyz
-      date: 2016
+  #works:
+    #name:
+      #link: https://github.com/Nanzhexi/xv6-riscv
+      #date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    Nanzhexi/xv6-riscv: https://github.com/Nanzhexi/xv6-riscv
+    Nanzhexi/V2ray-for-Doprax: https://github.com/Nanzhexi/V2ray-for-Doprax
