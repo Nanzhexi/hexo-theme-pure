@@ -2,7 +2,7 @@
 menu:
   Home: .
   Archives: archives  # 归档
-  Categories: categories  # 分类
+  Categories: 学习  # 分类
   Tags: tags  # 标签
   #Repository: repository  # github repositories
   #Books: books  # 豆瓣书单
@@ -91,11 +91,11 @@ donate:
   enable: true
   # 微信打赏
   wechatpay:
-    qrcode: images/donate/1.jpg
+    qrcode: images/donate/3.jpg
     title: 微信支付
   # 支付宝打赏
   alipay: 
-    qrcode: images/donate/2.jpg 
+    qrcode: images/donate/4.jpg 
     title: 支付宝
 
 # Share
